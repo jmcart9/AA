@@ -19,7 +19,7 @@ public class Employee {
 	public Name getName() {
 		return name;
 	}
-
+	//yeah!
 	@Override
 	public String toString() {
 		return name.toString() + ": " + identifier;
